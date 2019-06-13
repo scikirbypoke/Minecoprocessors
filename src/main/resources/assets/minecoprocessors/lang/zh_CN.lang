@@ -1,6 +1,11 @@
 tile.minecoprocessor.name=红石处理器
+tile.minecoprocessor_overclocked.name=超频处理器
+item.book_code.name=源代码书
+item.book_code.tooltip=红石处理器
 container.minecoprocessor=红石处理器
 gui.button.reset=重置
 gui.button.sleep=休眠
 gui.button.step=步进
 gui.button.wake=唤醒
+gui.button.help=说明书
+minecoprocessors.error_chat=Minecoprocessors出现了一个意外异常。这可能会导致问题，应报告给开发者。细节已经被日志记录。
